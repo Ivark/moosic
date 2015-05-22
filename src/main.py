@@ -2,6 +2,9 @@ __author__ = 'ivar'
 
 from melody import makeMelodyWav
 
+
+
+
 melodyArray = [
     ["E3*"],
     ["D#3*"],
